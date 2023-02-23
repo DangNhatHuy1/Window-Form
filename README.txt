@@ -1,0 +1,5 @@
+- Huy chỉnh xong delete 20/2/2023 (DeleteController)
+- Huy chỉnh xong create 20/2/2023 (CreateProductController)
+- Huy chỉnh xong update 20/2/2023(DetailProductController, UpdateProductController )
+- Huy chỉnh xong search 20/2/2023 (SearchController)
+- Huy chỉnh xong Show order 21/02/2023 ( order-list.jsp, ShowOrderController, OrderDTO, OrderDAO
